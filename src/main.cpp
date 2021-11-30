@@ -34,31 +34,7 @@
 #include "configurations.h"
 #include "homeassistantapi.h"
 
-// Icons for Home Assistant 
-#include "waterheateron.h"
-#include "waterheateroff.h"
-#include "lightbulbon.h"
-#include "lightbulboff.h"
-#include "exhaustfanon.h"
-#include "exhaustfanoff.h"
-#include "fanoff.h"
-#include "fanon.h"
-#include "airpurifieron.h"
-#include "airpurifieroff.h"
-#include "plugon.h"
-#include "plugoff.h"
-#include "switchon.h"
-#include "switchoff.h"
-#include "airconditioneron.h"
-#include "airconditioneroff.h"
-#include "warning.h"
-
-// sensor icons
-#include "dooropen.h"
-#include "doorclosed.h"
-#include "motionsensoron.h"
-#include "motionsensoroff.h"
-#include "sensorerror.h"
+#include "icons/icons.h"
 
 #define White         0xFF
 #define LightGrey     0xBB
